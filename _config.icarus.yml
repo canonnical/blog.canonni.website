@@ -11,7 +11,7 @@ logo_dark: /img/logo_dark.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.png
+    favicon: /img/favicon.ico
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -273,7 +273,7 @@ widgets:
         # Author's current location
         location: 
         # URL or path to the avatar image
-        avatar: /img/favicon.png
+        avatar: /img/pfp.png
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar

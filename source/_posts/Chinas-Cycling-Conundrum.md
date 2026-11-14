@@ -8,6 +8,7 @@ tags:
     - cycling
     - sino
 excerpt: Some observations from the mirage of a bike lane.
+published: false
 ---
 
 My old DnD group (shoutout to Rodin if you’re reading this btw) grew increasingly tired with our dull Homebrew campaign after yet another fort one day and decided to do what 🤓s do best: A Meta Game™. Instead of roleplaying as oversexualized mythical characters, we opted to create original personas based on ourselves, with each member working on their impression of the next one clockwise, and so forth. I unfortunately succumbed to the lowly fate of being characterized by a brute I had beef with, who assigned and justified the following ability scores to “Omar the Orangutan”:
