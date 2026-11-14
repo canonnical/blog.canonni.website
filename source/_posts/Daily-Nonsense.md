@@ -4,7 +4,9 @@ toc: true
 cover: /img/cover_dailynonsense.jpg
 date: 2023-11-23 12:00:00
 updated: 2026-11-09 12:34:56
-categories: non-blog
+categories: nonblog
+tags:
+    - personal
 excerpt: A collection of my ancient esoteric writings, for ✨ history ✨
 ---
 

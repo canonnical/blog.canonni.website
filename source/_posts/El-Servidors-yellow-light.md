@@ -1,7 +1,9 @@
 ---
 title: El Servidor's yellow light
 date: 2024-09-03 17:39:22
-categories: gaming
+categories: record
+tags: 
+    - gaming
 excerpt: A copy of one of my essays on El Servidor's Notion site.
 cover: https://images.unsplash.com/photo-1524388715307-f99db096ff5b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eWVsbG93JTIwbGlnaHR8ZW58MHwwfDB8fHwy&auto=format&fit=crop&q=60&w=900
 ---

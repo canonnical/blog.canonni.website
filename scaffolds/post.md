@@ -2,7 +2,9 @@
 title: {{ title }}
 date: {{ date }}
 toc: true
-categories:
+categories: 
+tags:
+    -
 excerpt: 
-cover: /img/thumbnails/FILENAME.jpg
+cover: /img/FILENAME.jpg
 ---
